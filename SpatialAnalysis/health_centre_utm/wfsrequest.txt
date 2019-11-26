@@ -1,0 +1,1 @@
+http://14.139.219.221:8087/geoserver/ElectionGIS/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=ElectionGIS:health_centre_utm&maxFeatures=5000&outputFormat=SHAPE-ZIP
